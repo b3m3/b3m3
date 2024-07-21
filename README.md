@@ -1,3 +1,4 @@
+<img width="100%" alt="Front-end-Developer" src="https://i.ibb.co/7rSTSfD/Frontend-transparent.gif" />
 <h3 align="center">Front-end developer</h3>
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
