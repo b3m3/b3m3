@@ -1,6 +1,6 @@
 <!--<img width="100%" alt="Front-end-Developer" src="https://i.ibb.co/PGR81MD/Front-2.gif" />-->
 <h3 align="center">Front-end developer</h3>
-<img align="right" alt="Coding" width="270" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="Coding" width="40%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 📫 How to reach me **uwm.d.c.a@gmail.com**
 
