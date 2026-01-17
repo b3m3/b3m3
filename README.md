@@ -2,7 +2,8 @@
 <h1 align="center">
 Front-end Developer • React / Next.js • TypeScript
 </h1>
-<img align="right" alt="Coding" width="40%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<!--<img align="right" alt="Coding" width="40%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />-->
+<img align="right" alt="Coding" width="40%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTF5MGU5MWJ2cWFzajhlcWFrMTd6MTJjamhhajZ0N2licm1xbnNuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B6IBrYTyvo1UJOXF9u/giphy.gif" />
 
 <h3 align="left">Connect with me: </h3>
 
