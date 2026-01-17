@@ -10,32 +10,38 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <img
+<div align="left">
+            <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
         alt="redux"
         width="40"
         height="40"
+        style="margin-right: 10px;"
     />
-    <img
+        <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
         alt="react"
         width="40"
         height="40"
+        style="margin-right: 10px;"
     />
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
         alt="redux"
         width="40"
         height="40"
+        style="margin-right: 10px;"
     />
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
     <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
         alt="typescript"
         width="40"
         height="40"
+        style="margin-right: 10px;"
     />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="40" height="40" style="margin-right: 10px;"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin-right: 10px;"/>
 </p>
+
 
 
